@@ -17,4 +17,4 @@ class Solution:
         print(i)
         return strs[0][:i]
     
-print(Solution().longestCommonPrefix(["flower","flow","flight"]))
+# print(Solution().longestCommonPrefix(["flower","flow","flight"]))
