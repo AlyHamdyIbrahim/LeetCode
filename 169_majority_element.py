@@ -10,7 +10,7 @@ class Solution:
         for num in appearances:
             if appearances[num] > len(nums) / 2:
                 return num
-            
+
     def majorityElement2(self, nums: [int]) -> int:
         c = 0
         majority = None
